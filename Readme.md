@@ -10,4 +10,4 @@ Pig-Dice-Game
 
 ## Description
 
-Game that roll dice
+This Game works with two playes by rolling dice and score points based on the number of dice they rolled it.
